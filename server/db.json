@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1111@gmail.com",
+      "password": "1234AAaak",
+      "createdAt": "2024-11-12T12:40:80.000Z"
+    },
+    {
+      "id": 3,
+      "email": "tototo@gmail.com",
+      "password": "gogogo123GO",
+      "createdAt": "2024-11-18T23:04:37.516Z"
+    },
+    {
+      "email": "bebe12@gmail.com",
+      "password": "1234MEow",
+      "createdAt": "2024-11-19T08:29:52.343Z",
+      "id": 4
+    },
+    {
+      "email": "sdkwwwwwwwwwwwwww@gmail.com",
+      "password": "qwerty1234QWE",
+      "createdAt": "2024-11-19T08:58:13.488Z",
+      "id": 5
+    },
+    {
+      "email": "meowmeow@gmail.com",
+      "password": "012004",
+      "createdAt": "2024-11-19T13:12:17.730Z",
+      "id": 6
+    },
+    {
+      "email": "nastyaboboed416@gmail.com",
+      "password": "04012006nbNB",
+      "createdAt": "2024-11-22T23:59:57.166Z",
+      "id": 7
+    },
+    {
+      "email": "nastyaboed416@gmail.com",
+      "password": "1234nbNBd",
+      "createdAt": "2024-11-23T01:18:52.042Z",
+      "id": 8
+    }
+  ],
+  "notes": [
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Первая",
+      "body": "Тело первой заметкиhhn",
+      "createdAt": "2024-11-12T14:36:10.980Z"
+    },
+    {
+      "userId": 7,
+      "title": "dsfad",
+      "body": "davd",
+      "createdAt": "2024-11-23T00:18:46.302Z",
+      "id": 5
+    },
+    {
+      "userId": 7,
+      "title": "fefаыиыefаМ",
+      "body": "fefыfммeиыа",
+      "createdAt": "2024-11-18T11:18:57.042Z",
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "title": "аивывамы",
+      "body": "ыамиаквав",
+      "createdAt": "2024-11-19T11:19:52.042Z",
+      "id": 7
+    },
+    {
+      "userId": 8,
+      "title": "ааааааааааааааааааааа",
+      "body": "ааааааааааааа",
+      "createdAt": "2024-11-23T01:28:11.185Z",
+      "id": 9
+    },
+    {
+      "userId": 8,
+      "title": "уфыавуымаФВ",
+      "body": "выуамувфув",
+      "createdAt": "2024-11-23T01:28:11.185Z",
+      "id": 10
+    }
+  ]
+}
